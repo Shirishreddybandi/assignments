@@ -21,7 +21,7 @@ class Calculator {
     let result=0;
   }
   add(a){
-    result+=a;
+    result+=0;
   }
   subtract(a){
     result-=a;
