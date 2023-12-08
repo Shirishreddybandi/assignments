@@ -15,6 +15,7 @@ function countVowels(str) {
       }
     }
     return count;
+    
 }
 
 module.exports = countVowels;
